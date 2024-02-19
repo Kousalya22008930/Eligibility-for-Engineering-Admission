@@ -51,7 +51,7 @@ class Eligibility
 
 ```
 ## Output:
-
+![Alt text](image.png)
 
 ## Result:
 Thus the above C# program to check the eligibility of engineering admission is successfully executed
